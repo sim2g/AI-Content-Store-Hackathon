@@ -1,3 +1,8 @@
+"""
+parses markscheme_KS2_labelled.csv into a json
+requires markscheme_KS2_labelled.csv in notebooks/data
+"""
+
 import csv
 import json
 import os
