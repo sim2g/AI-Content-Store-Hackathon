@@ -1,0 +1,96 @@
+{
+    "name": "markscheme_ks2",
+    "description": "ks2 marking criteria codes and usage",
+    "data": [
+        {
+            "criterion": "C1.1",
+            "standard": "working towards the expected standard",
+            "description": "The pupil can write for a range of purposes."
+        },
+        {
+            "criterion": "C1.2",
+            "standard": "working towards the expected standard",
+            "description": "The pupil can use paragraphs to organise ideas."
+        },
+        {
+            "criterion": "C1.3",
+            "standard": "working towards the expected standard",
+            "description": "The pupil can in narratives, describe settings and characters."
+        },
+        {
+            "criterion": "C1.4",
+            "standard": "working towards the expected standard",
+            "description": "The pupil can in non-narrative writing, use simple devices to structure the writing and support the reader (e.g. headings, sub-headings, bullet points)."
+        },
+        {
+            "criterion": "C1.5",
+            "standard": "working towards the expected standard",
+            "description": "The pupil can use capital letters, full stops, question marks, commas for lists and apostrophes for contraction mostly correctly."
+        },
+        {
+            "criterion": "C1.6",
+            "standard": "working towards the expected standard",
+            "description": "The pupil can spell correctly most words from the year 3 / year 4 spelling list, and some words from the year 5 / year 6 spelling list. These are detailed in the word lists within the spelling appendix to the national curriculum (English Appendix 1). Teachers should refer to these to exemplify the words that pupils should be able to spell. "
+        },
+        {
+            "criterion": "C2.1",
+            "standard": "working at the expected standard",
+            "description": "The pupil can write effectively for a range of purposes and audiences, selecting language that shows good awareness of the reader (e.g. the use of the first person in a diary; direct address in instructions and persuasive writing)."
+        },
+        {
+            "criterion": "C2.2",
+            "standard": "working at the expected standard",
+            "description": "The pupil can in narratives, describe settings, characters and atmosphere."
+        },
+        {
+            "criterion": "C2.3",
+            "standard": "working at the expected standard",
+            "description": "The pupil can integrate dialogue in narratives to convey character and advance the action."
+        },
+        {
+            "criterion": "C2.4",
+            "standard": "working at the expected standard",
+            "description": "The pupil can select vocabulary and grammatical structures that reflect what the writing requires, doing this mostly appropriately (e.g. using contracted forms in dialogues in narrative; using passive verbs to affect how information is presented; using modal verbs to suggest degrees of possibility)."
+        },
+        {
+            "criterion": "C2.5",
+            "standard": "working at the expected standard",
+            "description": "The pupil can use a range of devices to build cohesion (e.g. conjunctions, adverbials of time and place, pronouns and synonyms) within and across paragraphs."
+        },
+        {
+            "criterion": "C2.6",
+            "standard": "working at the expected standard",
+            "description": "The pupil can use verb tenses consistently and correctly throughout their writing."
+        },
+        {
+            "criterion": "C2.7",
+            "standard": "working at the expected standard",
+            "description": "The pupil can use the range of punctuation taught at key stage 2 mostly correctly (e.g. inverted commas and other punctuation to indicate direct speech). This relates to punctuation taught in the national curriculum, which is detailed in the grammar and punctuation appendix to the national curriculum (English Appendix 2). Pupils are expected to be able to use the range of punctuation shown here in their writing, but this does not mean that every single punctuation mark must be evident."
+        },
+        {
+            "criterion": "C2.8",
+            "standard": "working at the expected standard",
+            "description": "The pupil can spell correctly most words from the year 5 / year 6 spelling list, and use a dictionary to check the spelling of uncommon or more ambitious vocabulary. These words are detailed in the word lists within the spelling appendix to the national curriculum (English Appendix 1). Teachers should refer to these to exemplify the words that pupils should be able to spell."
+        },
+        {
+            "criterion": "C3.1",
+            "standard": "working at greater depth within the expected standard",
+            "description": "The pupil can write effectively for a range of purposes and audiences, selecting the appropriate form and drawing independently on what they have read as models for their own writing (e.g. literary language, characterisation, structure)."
+        },
+        {
+            "criterion": "C3.2",
+            "standard": "working at greater depth within the expected standard",
+            "description": "The pupil can distinguish between the language of speech and writing and choose the appropriate register. Pupils should recognise that certain features of spoken language (e.g. contracted verb forms, other grammatical informality, colloquial expressions, long coordinated sentences) are less likely in writing and be able to select alternative vocabulary and grammar."
+        },
+        {
+            "criterion": "C3.3",
+            "standard": "working at greater depth within the expected standard",
+            "description": "The pupil can exercise an assured and conscious control over levels of formality, particularly through manipulating grammar and vocabulary to achieve this."
+        },
+        {
+            "criterion": "C3.4",
+            "standard": "working at greater depth within the expected standard",
+            "description": "The pupil can use the range of punctuation taught at key stage 2 accurately (e.g. semi-colons, dashes, colons and hyphens) and, when necessary, use such punctuation precisely to enhance meaning and avoid ambiguit. This relates to punctuation taught in the national curriculum, which is detailed in the grammar and punctuation appendix to the national curriculum (English Appendix 2). Pupils are expected to be able to use the range of punctuation shown here in their writing, but this does not mean that every single punctuation mark must be evident."
+        }
+    ]
+}
